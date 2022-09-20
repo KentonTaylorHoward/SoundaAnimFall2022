@@ -47,5 +47,7 @@ void Update()
         {
           musicSource.loop = false;
         }
+
+        // hey this is some animation code yaay
    }
 }
